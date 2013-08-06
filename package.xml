@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>qp_oases</name>
+  <version>2.99.0</version>
+  <description>qpOASES quadratic programming library</description>
+  <maintainer email="kalakris@usc.edu">Mrinal Kalakrishnan</maintainer>
+
+  <author email="support@qpOASES.org">qpOASES support</author>
+  <author email="joachim.ferreau@esat.kuleuven.be">Hans Joachim Ferreau</author>
+  <author email="potschka@iwr.uni-heidelberg.de">Andreas Potschka</author> 
+  <author email="christian.kirches@iwr.uni-heidelberg.de">Christian Kirches</author>
+  
+  <url type="website">http://www.kuleuven.be/optec/software/qpOASES</url>
+
+  <license>LGPL</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
